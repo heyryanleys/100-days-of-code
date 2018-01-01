@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: January 1, 2018
-<table border="0">
+<table>
   <tr>
     <td width="50%" valign="center"><img src="/images/day1_1.png" /></td>
     <td width="50%" valign="center"><img src="/images/day1_2.png" /></td>
