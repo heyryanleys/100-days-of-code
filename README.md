@@ -1,11 +1,11 @@
 # I've joined the #100DaysOfCode Challenge.
 
-👋 Starting January 1, 2018 I've committed to coding every day for 100 days straight (well, [almost](rules.md)).  You can see what projects I'm currently working on in my [log](log.md).  I'll be working mostly in HTML CSS and JS-- most of my code will likely be as part of the [Codecademy Intensive](https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch) course I'm taking, or from [projects I'm working on at work](https://github.com/heyryanleys/Careers-Landing-Page). 
+👋 Starting January 1, 2018 I've committed to coding every day for 100 days straight (well, [almost](rules.md)).  You can see what projects I'm currently working on in my [log](log.md).  I'll be working mostly in HTML CSS and JS-- most of my code will likely be as part of the [Codecademy Intensive](https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch) course I'm taking, or from [projects I'm working on at work](https://github.com/heyryanleys/Careers-Landing-Page).  
 
-### Current items helping me with this challenge
-🎵 [This is: The Strokes](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DZ06evO04caZO)
-⌨️ [Cooler Master MasterKeys S PBT](https://www.amazon.com/gp/product/B071W2697M/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
-👨‍💻 [Atom](https://atom.io/), [iTerm2](https://www.iterm2.com/), [Dracula Theme](https://draculatheme.com/)
+### Current items helping me with this challenge  
+🎵 [This is: The Strokes](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DZ06evO04caZO)  
+⌨️ [Cooler Master MasterKeys S PBT](https://www.amazon.com/gp/product/B071W2697M/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)  
+👨‍💻 [Atom](https://atom.io/), [iTerm2](https://www.iterm2.com/), [Dracula Theme](https://draculatheme.com/)  
 📖 [Zen and the Art of Motorcycle Maintenance](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) (Sometimes you need a break!)
 
 ## Contents
