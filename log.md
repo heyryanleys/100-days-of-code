@@ -47,3 +47,13 @@ It still is slightly confusing to me-- I'm going to repeat today's lesson tomorr
 
 **Link to work:** [Codecademy: Build Front End Web Apps - Minesweeper game
 ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/minesweeper/src/minesweeper.js)  
+
+### Day 3: January 4, 2018  
+
+**Today's Progress**: Did yesterdays lesson from Codecademy again today
+
+**Thoughts:** Had an easier time than yesterday but still having a tough time with this one, I have to move on to the next lesson tomorrow to not get behind, but I want to come visit this in a few days and see if the next lessons help me understand this one better. 
+
+
+**Link to work:** [Codecademy: Build Front End Web Apps - Minesweeper game
+](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/minesweeper/src/minesweeper.js)  
