@@ -23,7 +23,7 @@
 **Thoughts:** Thought this was much easier than yesterday-- I've used if else statements a lot in the past so the class part of today was pretty easy, although I didn't know about switch statements which seem very useful.
 
 **Link to work:** [Codecademy: Build Front End Web Apps - Day 13
-](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/Day%2013%20-%20Control%20Flow)  
+](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/Day_13_Control%20Flow)  
 
 ### Day 2: January 3, 2018  
 
@@ -62,8 +62,8 @@ It still is slightly confusing to me-- I'm going to repeat today's lesson tomorr
 
 **Today's Progress**: Worked on learning how to use Getters and Setters
 
-**Thoughts:** Cool to work on this concept again after really not understanding it when I first learned about `this` and getters and setters in college.  I'm going to work through the example projects tomorrow before doing Day 17's lesson. 
+**Thoughts:** Cool to work on this concept again after really not understanding it when I first learned about `this` and getters and setters in college.  I'm going to work through the example projects tomorrow before doing Day 17's lesson.
 
 
 **Link to work:** [Codecademy: Build Front End Web Apps - Day 16 - Setters and Getters
-](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/Day%2016%20-%20Getters%20and%20Setters/Day%2016%20-%20Objects.md)  
+](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/Day_16_Getters%20and%20Setters/Day%2016%20-%20Objects.md)  
