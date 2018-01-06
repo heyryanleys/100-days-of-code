@@ -52,8 +52,18 @@ It still is slightly confusing to me-- I'm going to repeat today's lesson tomorr
 
 **Today's Progress**: Did yesterdays lesson from Codecademy again today
 
-**Thoughts:** Had an easier time than yesterday but still having a tough time with this one, I have to move on to the next lesson tomorrow to not get behind, but I want to come visit this in a few days and see if the next lessons help me understand this one better. 
+**Thoughts:** Had an easier time than yesterday but still having a tough time with this one, I have to move on to the next lesson tomorrow to not get behind, but I want to come visit this in a few days and see if the next lessons help me understand this one better.
 
 
 **Link to work:** [Codecademy: Build Front End Web Apps - Minesweeper game
 ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/minesweeper/src/minesweeper.js)  
+
+### Day 4: January 5, 2018  
+
+**Today's Progress**: Worked on learning how to use Getters and Setters
+
+**Thoughts:** Cool to work on this concept again after really not understanding it when I first learned about `this` and getters and setters in college.  I'm going to work through the example projects tomorrow before doing Day 17's lesson. 
+
+
+**Link to work:** [Codecademy: Build Front End Web Apps - Day 16 - Setters and Getters
+](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/Day%2016%20-%20Getters%20and%20Setters/Day%2016%20-%20Objects.md)  
