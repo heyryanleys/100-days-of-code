@@ -72,7 +72,7 @@ It still is slightly confusing to me-- I'm going to repeat today's lesson tomorr
 
 **Today's Progress**: Redid yesterdays lesson from Codecademy
 
-**Thoughts:** Ended up struggling to do the projects today so I redid the coursework from yesterday. This puts me a day behind schedule but the projects were much easier to complete after redoing the session. 
+**Thoughts:** Ended up struggling to do the projects today so I redid the coursework from yesterday. This puts me a day behind schedule but the projects were much easier to complete after redoing the session.
 
 
 **Link to work:** [Codecademy: Build Front End Web Apps - Day 16 - Setters and Getters
