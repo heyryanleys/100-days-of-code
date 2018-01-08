@@ -87,3 +87,12 @@ It still is slightly confusing to me-- I'm going to repeat today's lesson tomorr
 
 **Link to work:** [Codecademy: Build Front End Web Apps - Day 17 - Classes
 ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/Day_17_Classes/Day_17%20_Classes.md)  
+
+### Day 6: January 7, 2018  
+
+**Today's Progress**: Continuing to work on Minesweeper game  
+
+**Thoughts:** Minesweeper game is coming along smoothly-- a lot of the time I feel like I'm just following the tutorial, but I've decided that that is part of learning it and I can come back to this again at the end of the course and see if it all makes sense then.  
+
+**Link to work:** [Codecademy: Build Front End Web Apps - Minesweeper game
+](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/minesweeper/src/minesweeper.js) 
