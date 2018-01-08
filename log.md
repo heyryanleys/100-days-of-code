@@ -77,3 +77,13 @@ It still is slightly confusing to me-- I'm going to repeat today's lesson tomorr
 
 **Link to work:** [Codecademy: Build Front End Web Apps - Day 16 - Setters and Getters
 ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/Day_16_Getters%20and%20Setters/Day%2016%20-%20Objects.md)  
+
+### Day 6: January 7, 2018  
+
+**Today's Progress**: Did the Day 17 work from Codecademy
+
+**Thoughts:** Worked on creating classes instead of objects and how to set up superclasses.  Found this lesson much easier to pick up than the previous one.  Also created a program that could be used to log media at a library.  
+
+
+**Link to work:** [Codecademy: Build Front End Web Apps - Day 17 - Classes
+](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/Day_17_Classes/Day_17%20_Classes.md)  
