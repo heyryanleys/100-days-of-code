@@ -104,4 +104,15 @@ It still is slightly confusing to me-- I'm going to repeat today's lesson tomorr
 **Thoughts:** Can definitely see these being useful for data privacy and for keeping code from being compromised
 
 **Link to work:** [Codecademy: Build Front End Web Apps - Day 17 - Methods
-](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/Day_19_Modules/Day%2019%20-%20Modules.md)
+](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/Day_19_Modules/Day%2019%20-%20Modules.md)  
+
+### Day 8: January 11, 2018 << Was only able to code for 15 min yesterday before was interrupted, so counting it as a skip day.   
+
+**Today's Progress**: Finished up the module lessons and also did the project about browser compatibility and transpilation.
+
+**Thoughts:** Found both of these lessons to be pretty digestible.  The amount of different ways to export and import modules seemed like a lot to take in, but I imagine it's rare that developers use all of the different ways to import and export.
+
+**Link to work:** [Codecademy: Build Front End Web Apps - Day 17 - Methods
+](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/Day_19_Modules/Day%2019%20-%20Modules.md)  
+[Codecademy: Build Front End Web Apps - Day 18 - Browser compatibility
+](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/Day_20_Browser_Compatibilty/Day%2020%20-%20Browser%20Compatibility%20and%20Transpilation.md)  
