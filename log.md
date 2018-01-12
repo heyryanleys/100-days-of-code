@@ -128,4 +128,4 @@ It still is slightly confusing to me-- I'm going to repeat today's lesson tomorr
 With the careers page I didn't make too much progress-- It's very frustrating because I have to work with an older CMS that doesn't allow for me to edit the stylesheet directly so the way I'm writing my code is pretty forceful in the sense that I have to overwrite a lot of code that exists.  In the end, there is a hard time constraint and limited flexibility on the CMS, so it's either doing it this way or having a careers page that looks straight out of the 90s.
 
 **Link to work:** [Careers Landing Page]
-](https://github.com/heyryanleys/Careers-Landing-Page)  
+(https://github.com/heyryanleys/Careers-Landing-Page)  
