@@ -119,7 +119,7 @@ It still is slightly confusing to me-- I'm going to repeat today's lesson tomorr
 
 ### Day 9: January 12, 2018  
 
-<center> <img src="./beerandcode.JPG" /> </center>
+<center> <img src="/beerandcode.JPG" /> </center>
 
 **Today's Progress**: Did two days of Codecademy class as well as some work on a careers webpage for my company
 
