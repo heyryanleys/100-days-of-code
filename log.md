@@ -116,3 +116,16 @@ It still is slightly confusing to me-- I'm going to repeat today's lesson tomorr
 ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/Day_19_Modules/Day%2019%20-%20Modules.md)  
 [Codecademy: Build Front End Web Apps - Day 18 - Browser compatibility
 ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/Day_20_Browser_Compatibilty/Day%2020%20-%20Browser%20Compatibility%20and%20Transpilation.md)  
+
+### Day 9: January 12, 2018  
+
+<center> <img src="./beerandcode.JPG" /> </center>
+
+**Today's Progress**: Did two days of Codecademy class as well as some work on a careers webpage for my company
+
+**Thoughts:** Decided since it was friday to crack a beer and breeze through the next two days of my codecademy course.  We started a new unit on react, but the first two days are about the basics of HTML and CSS.  HTML and CSS are where I'm most comfortable so I was able to fly through the work today. (I didn't take any notes, so there's no commit from the class today).  
+
+With the careers page I didn't make too much progress-- It's very frustrating because I have to work with an older CMS that doesn't allow for me to edit the stylesheet directly so the way I'm writing my code is pretty forceful in the sense that I have to overwrite a lot of code that exists.  In the end, there is a hard time constraint and limited flexibility on the CMS, so it's either doing it this way or having a careers page that looks straight out of the 90s.
+
+**Link to work:** [Careers Landing Page]
+](https://github.com/heyryanleys/Careers-Landing-Page)  
