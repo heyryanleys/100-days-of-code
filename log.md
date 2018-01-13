@@ -135,5 +135,5 @@ With the careers page I didn't make too much progress-- It's very frustrating be
 
 **Thoughts:** Pretty cool to start learning an entirely new framework. Today I banged out two more days of the course to catch up since I spent some extra time on methods and setters + getters.  A lot of JSX is simlar to HTML so it was fairly quick to pick up.  
 
-**Link to work:** [[Codecademy: Build Front End Web Apps - Unit 2 - Day 3 - Methods](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-3-jsx-1/day-3-JSX-1.md)  
-[[Codecademy: Build Front End Web Apps - Unit 2 - Day 4 - Methods](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-4-jsx-2/day-4%20-JSX-2.md)  
+**Link to work:** [Codecademy: Build Front End Web Apps - Unit 2 - Day 3 - Methods](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-3-jsx-1/day-3-JSX-1.md)  
+[Codecademy: Build Front End Web Apps - Unit 2 - Day 4 - Methods](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-4-jsx-2/day-4%20-JSX-2.md)  
