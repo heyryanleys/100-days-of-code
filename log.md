@@ -137,3 +137,13 @@ With the careers page I didn't make too much progress-- It's very frustrating be
 
 **Link to work:** [Codecademy: Build Front End Web Apps - Unit 2 - Day 3 - Methods](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-3-jsx-1/day-3-JSX-1.md)  
 [Codecademy: Build Front End Web Apps - Unit 2 - Day 4 - Methods](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-4-jsx-2/day-4%20-JSX-2.md)  
+
+### Day 11: January 14, 2018  
+
+**Today's Progress**: Banged out 3 days worth of work for my course so I am now back on track timeline wise.
+
+**Thoughts:** Today I went through learning about creating and using components in React and how to run a React app on a local server.  Another day where things seemed to click pretty quickly-- no complaints here!  
+
+**Link to work:** [Codecademy: Build Front End Web Apps - Unit 2 - Day 5 - Components](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-5-components/day-5-components.md)  
+[Codecademy: Build Front End Web Apps - Unit 2 - Day 6 - Components](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-6-components/day-6-components.md)  
+[Codecademy: Build Front End Web Apps - Unit 2 - Day 7 - testapp](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/unit-2/day-7-creating-react-app/testapp)  
