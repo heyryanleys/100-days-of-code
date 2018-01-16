@@ -157,3 +157,11 @@ With the careers page I didn't make too much progress-- It's very frustrating be
 **Thoughts:** Felt very strong during this-- it was cool to see how components are really used in programs.  There was still the aspect of going through the steps with this one, but I understood everything I wrote which is much more than I can say when I was going through the Minesweeper program 😊
 
 **Link to work:** [Codecademy: Build Front End Web Apps - Unit 2 - Day 8 & 9 - Ravenous](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/unit-2/day-8-9-ravenous-project/ravenous)  
+
+### Day 13: January 16, 2018  
+
+**Today's Progress**: Did today's work from Codecademy and learned about passing information between components, such as other components or props.
+
+**Thoughts:** Definitely a bit more a confusing topic to think about using in practice than the previous days. I understand how to pass props and components to other components, but I'm not fully able to think about how this is used on a larger scale.
+
+**Link to work:** [Codecademy: Build Front End Web Apps - Unit 2 - Day 10 - Components and Props ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-10-components-and-props/day-10-components-and-props.md)  
