@@ -119,7 +119,7 @@ It still is slightly confusing to me-- I'm going to repeat today's lesson tomorr
 
 ### Day 9: January 12, 2018  
 
-<center> <img src="/images/beerandcode.JPG" width="300px" /> </center>
+<p align="center"><img src="/images/beerandcode.JPG" width="300px" /> </p>
 
 **Today's Progress**: Did two days of Codecademy class as well as some work on a careers webpage for my company
 
@@ -147,3 +147,13 @@ With the careers page I didn't make too much progress-- It's very frustrating be
 **Link to work:** [Codecademy: Build Front End Web Apps - Unit 2 - Day 5 - Components](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-5-components/day-5-components.md)  
 [Codecademy: Build Front End Web Apps - Unit 2 - Day 6 - Components](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-6-components/day-6-components.md)  
 [Codecademy: Build Front End Web Apps - Unit 2 - Day 7 - testapp](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/unit-2/day-7-creating-react-app/testapp)  
+
+### Day 12: January 15, 2018  
+
+<p align="center"> <img src="ravenous.jpg" width="300px" /> </p>  
+
+**Today's Progress**: Created the first demo app for the yelp clone I'll be making during this course.
+
+**Thoughts:** Felt very strong during this-- it was cool to see how components are really used in programs.  There was still the aspect of going through the steps with this one, but I understood everything I wrote which is much more than I can say when I was going through the Minesweeper program 😊
+
+**Link to work:** [Codecademy: Build Front End Web Apps - Unit 2 - Day 8 & 9 - Ravenous](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/unit-2/day-8-9-ravenous-project/ravenous)  
