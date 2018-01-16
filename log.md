@@ -150,7 +150,7 @@ With the careers page I didn't make too much progress-- It's very frustrating be
 
 ### Day 12: January 15, 2018  
 
-<p align="center"> <img src="ravenous.jpg" width="300px" /> </p>  
+<p align="center"> <img src="./images/ravenous.jpg" width="300px" /> </p>  
 
 **Today's Progress**: Created the first demo app for the yelp clone I'll be making during this course.
 
