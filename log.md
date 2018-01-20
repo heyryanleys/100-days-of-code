@@ -165,3 +165,37 @@ With the careers page I didn't make too much progress-- It's very frustrating be
 **Thoughts:** Definitely a bit more a confusing topic to think about using in practice than the previous days. I understand how to pass props and components to other components, but I'm not fully able to think about how this is used on a larger scale.
 
 **Link to work:** [Codecademy: Build Front End Web Apps - Unit 2 - Day 10 - Components and Props ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-10-components-and-props/day-10-components-and-props.md)  
+
+### Day 14: January 17, 2018  
+
+**Today's Progress**: Worked on a second page for our careers website.
+
+**Thoughts:** I've been redoing our careers pages at work-- previously we had one page that has a list of the jobs and you could email us to apply for a job.  I've been setting up a landing page that tells you about the company, a second page that has the job postings on them, a third page which has the details of the actual job and then a final online application for the position. Working with our CMS is frustrating and all of the CSS I add has to be added onto the page without being able to access the main css files, so there are a lot of `!important` tags being used which I dislike, but I have to use them for now.
+
+**Link to work:** [Careers Landing Page](https://github.com/heyryanleys/Careers-Landing-Page)  
+
+### Day 15: January 18, 2018  
+
+**Today's Progress**: Worked on the job postings pages
+
+**Thoughts:** Created the template that will be used for the each individual job postings and then created the job posting pages.
+
+**Link to work:** [Careers Landing Page](https://github.com/heyryanleys/Careers-Landing-Page)  
+
+### Day 16: January 19, 2018  
+
+**Today's Progress**: Created an online application for our open careers.  
+
+**Thoughts:** This was cool because I used some of the JS I learned in Codecademy to make it so that there is just one page for the application, and depending on which job the user clicked on on the previous page, the application said the job they're applying for at the top of the page and automatically populates a hidden form field on the application so we can see which job they applied for.  This means rather than making a new page for every job application I can just manage one page.
+
+**Link to work:** [Careers Landing Page](https://github.com/heyryanleys/Careers-Landing-Page)  
+
+### Day 17: January 20, 2018  
+
+**Today's Progress**: Did two more days of my Codecademy course-- worked more on the ravenous application, learned about state and created an app that randomly chooses a background color when a button is clicked.
+
+**Thoughts:** This is getting more difficult, I still have a pretty easy time going through the step but there is still the lingering thought that I'm not sure how I would have come up with the solution if I didn't have the steps. After this course is over I'm going to start FreeCodeCamp as I heard that is more challenge based rather than tutorial based.
+
+**Link to work:** [Codecademy: Build Front End Web Apps - Unit 2 - Day 8 & 9 - Ravenous](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/unit-2/day-8-9-ravenous-project/ravenous)  
+[Codecademy: Build Front End Web Apps - Unit 2 - Day 12 - State - Notes ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-12-state/day-12-state.md)  
+[Codecademy: Build Front End Web Apps - Unit 2 - Day 12 - State - Random Color Generator ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/unit-2/day-12-state/random-color-generator)  
