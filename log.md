@@ -199,3 +199,14 @@ With the careers page I didn't make too much progress-- It's very frustrating be
 **Link to work:** [Codecademy: Build Front End Web Apps - Unit 2 - Day 8 & 9 - Ravenous](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/unit-2/day-8-9-ravenous-project/ravenous)  
 [Codecademy: Build Front End Web Apps - Unit 2 - Day 12 - State - Notes ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-12-state/day-12-state.md)  
 [Codecademy: Build Front End Web Apps - Unit 2 - Day 12 - State - Random Color Generator ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/unit-2/day-12-state/random-color-generator)  
+
+### Day 18: January 21, 2018  
+
+**Today's Progress**: Did three days of the Codecademy course (They were short).
+
+**Thoughts:** I was struggling with the concept but the video player app was helpful in understanding why there are multiple child components to display and change the parent component. I'm stuck a bit on the video player though, the code looks right to me so I'm not sure exactly what the error is.
+
+**Link to work:** [Codecademy: Build Front End Web Apps - Unit 2 - Day 13 - Passing Information 1](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-13-passing-information-1/day-13-passing-information-1.md)  
+[Codecademy: Build Front End Web Apps - Unit 2 - Day 14 - Passing Information 2 ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-14-passing-information-2/day-14-passing%20-information-2.md)  
+[Codecademy: Build Front End Web Apps - Unit 2 - Day 15 - Passing Information 3 - Notes ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-15-passing-information-3/day-15-passing-information-3.md)  
+[Codecademy: Build Front End Web Apps - Unit 2 - Day 15 - Passing Information 3 - Video PLayer ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/unit-2/day-15-passing-information-3/video-player)  
