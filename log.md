@@ -210,3 +210,19 @@ With the careers page I didn't make too much progress-- It's very frustrating be
 [Codecademy: Build Front End Web Apps - Unit 2 - Day 14 - Passing Information 2 ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-14-passing-information-2/day-14-passing%20-information-2.md)  
 [Codecademy: Build Front End Web Apps - Unit 2 - Day 15 - Passing Information 3 - Notes ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-15-passing-information-3/day-15-passing-information-3.md)  
 [Codecademy: Build Front End Web Apps - Unit 2 - Day 15 - Passing Information 3 - Video PLayer ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/unit-2/day-15-passing-information-3/video-player)  
+
+### Day 19: January 22, 2018  
+
+**Today's Progress**: Worked on creating a new landing page for high profile tradeshows we're having in 2018  
+
+**Thoughts:** Pretty standard work for what I've been doing within our CMS at work.  Still happy with the results I'm able to get but unhappy that I have use `!important` to overwrite so much of the original styles.
+
+**Link to work:** [Careers Landing Page](https://github.com/heyryanleys/Careers-Landing-Page)  
+
+### Day 20: January 23, 2018  
+
+**Today's Progress**: Today I worked on another part of the yelp clone for my Codecademy course.
+
+**Thoughts:** This was a classic case of feeling like I was going through the motions.  Seems to be a theme where I really understand the concepts of each lesson before the projects, but I have a hard time figuring out how to use them together in a real world application.
+
+**Link to work:** [Codecademy: Build Front End Web Apps - Unit 2 - Day 8 & 9 - Ravenous](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/unit-2/day-8-9-ravenous-project/ravenous)  
