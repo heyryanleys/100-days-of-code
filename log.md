@@ -226,3 +226,29 @@ With the careers page I didn't make too much progress-- It's very frustrating be
 **Thoughts:** This was a classic case of feeling like I was going through the motions.  Seems to be a theme where I really understand the concepts of each lesson before the projects, but I have a hard time figuring out how to use them together in a real world application.
 
 **Link to work:** [Codecademy: Build Front End Web Apps - Unit 2 - Day 8 & 9 - Ravenous](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/unit-2/day-8-9-ravenous-project/ravenous)  
+
+### Day 21: January 24, 2018  
+
+**Today's Progress**: Started designing a new email template that looks like an infographic.
+
+**Thoughts:** At work one of our content creators made an infographic that we wanted to send out in an email, so took the design and started coding it into an email template
+
+**Link to work:** /In a private repo-- I know it's against the rules of 100 days of code but it's not ready to be made a public repo/  
+
+### Day 22: January 25, 2018  
+
+<p align="center"><img src="/images/infographicemail.png" width="300px" /> </p>  
+
+**Today's Progress**: Finished creating the infographic email
+
+**Thoughts:** Pretty happy with the way this came out for only having a few hours to build it!  Worked great on all devices I was able to test it on.
+
+**Link to work:** /In a private repo/  
+
+### Day 23: January 27, 2018  << Had to miss yesterday, had a very long week at work and wasn't able to dedicate enough attention to the next lesson in the Codecademy course
+
+**Today's Progress**: Did day 17's readings on API requests and day 18's lesson on Requests
+
+**Thoughts:** Cool to learn how to work with APIs! Still feel like there's a step we haven't gone over on how to take this code and make it functional, but the lesson tomorrow is also on requests so I'm hoping it will be covered then.
+
+**Link to work:**  [Codecademy: Build Front End Web Apps - Unit 2 - Day 18 - Requests ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-18-requests/day-18-requests.md)
