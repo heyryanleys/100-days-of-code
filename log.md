@@ -251,4 +251,12 @@ With the careers page I didn't make too much progress-- It's very frustrating be
 
 **Thoughts:** Cool to learn how to work with APIs! Still feel like there's a step we haven't gone over on how to take this code and make it functional, but the lesson tomorrow is also on requests so I'm hoping it will be covered then.
 
-**Link to work:**  [Codecademy: Build Front End Web Apps - Unit 2 - Day 18 - Requests ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-18-requests/day-18-requests.md)
+**Link to work:**  [Codecademy: Build Front End Web Apps - Unit 2 - Day 18 - Requests ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-18-requests/day-18-requests.md)  
+
+### Day 24: January 28, 2018
+
+**Today's Progress**: Did day 19's lesson on Requests
+
+**Thoughts:** Still think API requests are interesting-- got a little more complicated with async / await requests, but I'm following along alright.  
+
+**Link to work:**  [Codecademy: Build Front End Web Apps - Unit 2 - Day 19 - Requests ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-19-requests/day-19-requests.md)  
