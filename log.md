@@ -255,7 +255,7 @@ With the careers page I didn't make too much progress-- It's very frustrating be
 
 ### Day 25: January 29, 2018
 
-<p align="center"><img src="/images/finalyelp.JPG" width="300px" /> </p>  
+<p align="center"><img src="/images/finalyelp.jpg" width="300px" /> </p>  
 
 **Today's Progress**: Finished the yelp app clone!
 
