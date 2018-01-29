@@ -253,10 +253,12 @@ With the careers page I didn't make too much progress-- It's very frustrating be
 
 **Link to work:**  [Codecademy: Build Front End Web Apps - Unit 2 - Day 18 - Requests ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-18-requests/day-18-requests.md)  
 
-### Day 24: January 28, 2018
+### Day 25: January 29, 2018
 
-**Today's Progress**: Did day 19's lesson on Requests
+<p align="center"><img src="/images/finalyelp.JPG" width="300px" /> </p>  
 
-**Thoughts:** Still think API requests are interesting-- got a little more complicated with async / await requests, but I'm following along alright.  
+**Today's Progress**: Finished the yelp app clone!
 
-**Link to work:**  [Codecademy: Build Front End Web Apps - Unit 2 - Day 19 - Requests ](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/blob/master/unit-2/day-19-requests/day-19-requests.md)  
+**Thoughts:** Excited to be done with this project-- I learned a lot through it but by the end I was starting to feel lost.  I'm looking forward to starting the next project which accesses Spotify's API because I think it will be a lot of the same ideas as the last one so it will be good to go back to the beginning and hopefully I'll understand some concepts that I just pluged in on the Yelp one to get through it.
+
+**Link to work:** [Codecademy: Build Front End Web Apps - Unit 2 - Day 8 & 9 - Ravenous](https://github.com/heyryanleys/Codecademy-Build-Front-End-Web-Apps/tree/master/unit-2/day-8-9-ravenous-project/ravenous)    
